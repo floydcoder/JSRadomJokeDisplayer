@@ -1,0 +1,20 @@
+
+body
+{
+	font-family:Arial,Helvettica,sans-serief; /* attributes=value */
+	background-color:#333333;
+  
+}
+  h1{
+    text-align: center;
+  }
+aside{
+	width:80%;
+	margin-right: auto;
+	margin-left: auto;
+	font-size:.8em;
+	background: #eeff99;
+	padding:20px;
+	border:1px solid #696;
+	border-radius:30px;
+  
