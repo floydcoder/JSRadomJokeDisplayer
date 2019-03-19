@@ -1,20 +1,19 @@
-
-body
-{
-	font-family:Arial,Helvettica,sans-serief; /* attributes=value */
-	background-color:#333333;
-  
+body{
+  background-color:#99e6ff;
 }
-  h1{
-    text-align: center;
-  }
-aside{
-	width:80%;
-	margin-right: auto;
-	margin-left: auto;
-	font-size:.8em;
-	background: #eeff99;
-	padding:20px;
-	border:1px solid #696;
-	border-radius:30px;
-  
+h1{
+  text-align:center;
+}
+section{
+  width:50%;
+  background-color:#1ac6ff;
+  margin-left:auto;
+  margin-right:auto;
+  border-style:solid;
+  border-width:5px;
+  border-color:black;
+  padding:5px;
+}
+
+
+
